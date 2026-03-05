@@ -1,0 +1,1728 @@
+{
+  "programName": "Kris Gethin 12 Week Daily Trainer",
+  "source": "Bodybuilding.com workout PDFs",
+  "weeks": [
+    {
+      "weekNumber": 1,
+      "title": "Week 1",
+      "days": [
+        {
+          "dayNumber": 1,
+          "programDayNumber": 1,
+          "name": "Day 1 - Leg",
+          "focus": "Leg",
+          "sourceFile": "Week 1 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 min"
+            },
+            {
+              "name": "Leg Press",
+              "type": "strength",
+              "prescription": "4-5 warm-up sets of 10-12 reps, 3 sets to failure in 12-20 reps Hamstring Curl: 2 warm-up sets of 15 reps, 3 sets to failure in 12-15 reps Lying Hamstring Curl: 2 warm-up sets of 15 reps, 3 sets to failure in 12-15 reps Leg Extensions: 2 warm-up sets of 15-20 reps, 2 sets to failure in 15-20 reps"
+            },
+            {
+              "name": "Hack Squat",
+              "type": "strength",
+              "prescription": "2 warm-up sets of 15-20 reps, 3 sets to failure in 20-30 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 min . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 2,
+          "programDayNumber": 2,
+          "name": "Day 2 - Chest/Triceps",
+          "focus": "Chest/Triceps",
+          "sourceFile": "Week 1 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes Flat Dumbbell Press: 3 warm-up sets of 6-10 reps 3 sets to failure in 6-10 reps 2 sets to failure in 6-10 reps Incline Flyes: 2 sets to failure in 8-15 reps Straight Arm Pullover: 2 sets to failure in 10-12 reps Rope Extension: 3 sets to failure in 10-12 reps Lying Cable Extensions: 3 sets to failure in 10-12 reps Overhead Dumbbell Extension: 3 sets to failure in 10-12 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes . . . . . . . Back/Biceps __________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used."
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes Reverse Grip Pulldown: 1 warm up set of 8-10 reps 3 sets of 8-10 reps Bent Over Barbell Rows: 1 warm up set of 8-10 reps 3 sets of 10-12 reps Hyperextension: 1 warm up set of 10-12 reps 2 sets of 10-12 reps Straight Arm Pulldown: 7 sets of 10-15 reps Concentration Curls: 2 warm-up sets of 12-15 reps, per arm 3 sets of 12-15 reps, per arm Alternating Dumbbell Curl: 3 sets of 12-15 reps, per arm Cable Curls: 3 sets of 15-20 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes . . . . . . . Shoulders/Calves/Abs __________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used."
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes Military Press: 2 warm up sets of 6-8 reps 3 sets of 6-8 reps Side Raises: 1 warm up set of 12-15 reps 3 sets of 12-15 reps Upright Rows 21s: 3 sets of 7,7,7 reps Rear Delt Raises: 7 sets of 12-15 reps Superset: Weighted Situps: 3 sets of 15-20 reps Seated Calf Raises: 3 sets of 20 reps Standing Calf Raises: 3 sets of 18-20 reps, 1 foot at a time 20 min Cardio: Walking . . . . . . . Legs __________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used."
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes Superset:"
+            },
+            {
+              "name": "Leg Extensions",
+              "type": "strength",
+              "prescription": "2 sets of 30 reps"
+            },
+            {
+              "name": "Hamstring Curls",
+              "type": "strength",
+              "prescription": "2 sets of 20 reps Superset: Walking Lunges 3 sets of 40 steps Standing Hamstring Curls 3 sets of 15-20 reps"
+            },
+            {
+              "name": "Leg Press",
+              "type": "strength",
+              "prescription": "3 sets of 50 reps"
+            },
+            {
+              "name": "Superset",
+              "type": "strength",
+              "prescription": "Repeat Exercises 1"
+            },
+            {
+              "name": "Leg Extensions",
+              "type": "strength",
+              "prescription": "1 sets of 30 reps"
+            },
+            {
+              "name": "Hamstring Curls",
+              "type": "strength",
+              "prescription": "1 sets of 20 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes . . . . . . ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNumber": 2,
+      "title": "Week 2",
+      "days": [
+        {
+          "dayNumber": 1,
+          "programDayNumber": 8,
+          "name": "Day 1 - Chest/Triceps",
+          "focus": "Chest/Triceps",
+          "sourceFile": "Week 2 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes Flat Dumbbell Press: 2 warm-up sets of 8-10 reps 2 sets to failure in 6-8 reps Flat Bench Flyes: 1 warm-up set of 8-10 reps 3 sets to failure in 8-10 reps 1 drop set to failure Incline Cable Flyes: 1 warm-up set of 8-10 reps 2 sets to failure in 8-10 reps 1 drop set to failure Cable Crossovers: 1 warm-up set of 8-10 reps 2 sets to failure in 8-10 reps 1 drop set to failure Tricep Cable Pushdowns: 1 warm-up set of 8-10 reps 2 sets to failure in 16-18 reps 1 drop set to failure Reverse Cable Pushdowns: 1 warm-up set of 8-10 reps 2 sets to failure in 16-18 reps 1 drop set to failure Giant Set: Head Smackers: 3 sets of 7 reps Skull Crushers: 3 sets of 7 reps Rockers: 3 sets of 7 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 2,
+          "programDayNumber": 10,
+          "name": "Day 2 - Shoulders",
+          "focus": "Shoulders",
+          "sourceFile": "Week 2 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes Seated Smith Machine Military Press: 2 warm-up sets of 8-10 reps 3 sets to failure in 6-8 reps One Arm Shoulder Press Machine: 1 warm-up sets of 8-10 reps 2 sets to failure in 8-10 reps 1 drop set to failure Superset: Side Raises: 1 warm-up set of 8-10 reps 3 sets to failure 12-16 reps Side Raises Behind The Back: 3 sets to failure 12-15 reps Dumbbell"
+            },
+            {
+              "name": "Shrugs",
+              "type": "strength",
+              "prescription": "1 warm-up set of 8-10 reps 3 sets to failure in 12-20 reps Rear Raises: 1 warm-up set of 8-10 reps 7 sets of 12-16 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 3,
+          "programDayNumber": 11,
+          "name": "Day 3 - Calves And Abs",
+          "focus": "Calves And Abs",
+          "sourceFile": "Week 2 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes Standing Calf Raises: 2 warm-up sets of 8-10 reps , 4 sets to failure in 12-15 reps Donkey Calf Raises: 4 sets to failure in 18-20 reps Hanging Leg Raises: 3 sets to failure in 20 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes . . . . . . . The Week 2 Day 12 Workout __________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used."
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes Reverse Grip Pulldown: 1 warm-up set of 8-10 reps 3 sets to failure in 8-10 reps Wide Grip Lat Pulldown: 1 warm-up set of 8-10 reps 3 sets to failure in 8-12 reps One Arm Dumbbell Row: 1 warm-up set of 8-10 reps 3 sets to failure in 8-12 reps Romanian Deadlift: 1 warm-up set of 8-10 reps 3 sets to failure in 16 reps Hammer Dumbbell Curl: 1 warm-up set of 8-10 reps 3 sets to failure in 18-20 reps Preacher Machine Curl: 1 warm-up set of 8-10 reps 3 sets to failure in 14-16 reps E-Z Bar Curls: 1 warm-up set of 8-10 reps 3 sets to failure in 8-10 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 4,
+          "programDayNumber": 14,
+          "name": "Day 4 - Legs",
+          "focus": "Legs",
+          "sourceFile": "Week 2 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes Superset: Leg Extensions: 3 sets to failure in 20 full and partial reps Seated Leg Curl: 3 sets to failure in 12-15 reps Superset: Hack Squat: 4 sets to failure in 50 reps Standing Leg Curl: 4 sets to failure in 18-20 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes . . . . . . ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNumber": 3,
+      "title": "Week 3",
+      "days": [
+        {
+          "dayNumber": 1,
+          "programDayNumber": 15,
+          "name": "Day 1 - Chest/Triceps",
+          "focus": "Chest/Triceps",
+          "sourceFile": "Week 3 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "150 reps per side Flat Dumbbell Press: 2 warm-up sets of 8-10 reps 2 sets to failure in 6-8 reps Straight Arm Pullovers: 1 warm-up set of 8-10 reps 2 sets to failure 10-12 reps Incline Flyes: 2 sets to failure 10-12 reps 1 drop set to failure Overhead Tricep Extensions: 1 sets to failure 12-15 reps 2 drop sets to failure Dips: 3 sets to failure 12-15 reps Superset: Lying Dumbbell Extensions: 3 sets to failure 10-12 reps Narrow Pushups: 3 sets to failure Bench Dips: 3 sets to failure 12-15 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "150 reps per side . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 2,
+          "programDayNumber": 16,
+          "name": "Day 2 - Back/Biceps",
+          "focus": "Back/Biceps",
+          "sourceFile": "Week 3 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Reverse Grip Pulldown: 1 warm-up set of 10-12 reps 3 sets to failure in 10-12 reps Lat Pulldown: 3 sets to failure in 12-15 reps Dumbbell Row: 3 sets to failure in 15-17 reps Close Grip Pullups With Legs Elevated: 3 sets to failure in 10-12 reps Alternating Dumbbell Curls: 1 warm-up set of 8-10 reps 3 sets to failure in 12-14 reps Preacher Dumbbell Curls: 1 warm-up set of 8-10 reps 3 sets to failure in 12-14 reps Spider curls 3 sets to failure in 15-20 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 3,
+          "programDayNumber": 19,
+          "name": "Day 3 - Shoulders/Calves/Abs",
+          "focus": "Shoulders/Calves/Abs",
+          "sourceFile": "Week 3 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes Twists: 1 set of 150 reps Superset: Dumbbell Side Raises: 3 sets to failure in 15-17 reps Front Dumbbell Raises: 3 sets to failure in 15-17 reps Machine Shoulder Press: 1 warm-up set of 8-10 reps 3 sets to failure in 15-17 reps Rear Delt Raises: 7 sets to failure in 12-15 reps Standing Calf Raises: 1 warm-up set of 8-10 reps 5 sets to failure in 20 reps Sit-Ups: 3 sets to failure"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes Twists: 1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 4,
+          "programDayNumber": 20,
+          "name": "Day 4 - Legs",
+          "focus": "Legs",
+          "sourceFile": "Week 3 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes Twists: 1 set of 150 reps Leg Extensions: 2 warm-up sets of 8-10 reps 1 drop set of 100 total reps Leg Press: 2 warm-up sets of 8-10 reps 3 rest-pause sets of 30 reps Standing Hamstring Curls: 1 warm-up set of 8-10 reps 3 sets of 20 reps Hack Squats: 2 warm-up sets of 8-10 reps 3 rest-pause sets of 30 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes Twists: 1 set of 150 reps . . . . . . ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNumber": 4,
+      "title": "Week 4",
+      "days": [
+        {
+          "dayNumber": 1,
+          "programDayNumber": 23,
+          "name": "Day 1 - Back/Biceps",
+          "focus": "Back/Biceps",
+          "sourceFile": "Week 4 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Reverse Grip Hammer Pulldowns: 2 warm up sets of 8-10 reps 3 sets of 10-12 reps Bent Over Barbell Rows: 1 warm up set of 8-10 reps 3 sets of 10-12 reps Single-Arm Rows: 1 warm up set of 8-10 reps 2 sets of 10-12 reps Reverse Grip Pulldowns: 1 warm up set of 8-10 reps 3 sets of 10-12 reps Preacher Curls: 1 warm up set of 8-10 reps 4 triple drop sets of 12, 12, 12, reps EZ Bar Curls: 4 triple drop sets of 12, 12, 12, reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 2,
+          "programDayNumber": 24,
+          "name": "Day 2 - Shoulder",
+          "focus": "Shoulder",
+          "sourceFile": "Week 4 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Side Lateral Raise: 2 warm-up sets of 8-10 reps 3 triple drop sets of 10, 10, 10 reps Shoulder Press: 1 warm-up set of 8-10 reps 3 triple drop sets of 10, 10, 10 reps Rear Delt Raise: 1 set of 12 reps 20 partial"
+            },
+            {
+              "name": "reps Cardio",
+              "type": "strength",
+              "prescription": "20 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 3,
+          "programDayNumber": 25,
+          "name": "Day 3 - Chest",
+          "focus": "Chest",
+          "sourceFile": "Week 4 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Pec Deck: 2 warm-up sets of 8-10 reps 3 triple drop sets of 12, 12, 12 reps Machine Press: 3 triple drop sets of 12, 12, 12 reps Incline Dumbbell Flyes: 3 triple drop sets of 12, 12, 12 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 4,
+          "programDayNumber": 28,
+          "name": "Day 4 - Leg",
+          "focus": "Leg",
+          "sourceFile": "Week 4 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Superset: Leg Press: 3 sets of 85 reps: 20 reps with feet at bottom of plate 20 reps after moving feet 1 inch up 20 reps after moving feet 1 inch up 25 reps after moving feet to top of plate Squats: 3 sets of 20 reps Leg Extensions: 3 triple drop sets of 12-15 reps 1 burnout set with partial reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNumber": 5,
+      "title": "Week 5",
+      "days": [
+        {
+          "dayNumber": 1,
+          "programDayNumber": 29,
+          "name": "Day 1 - Triceps/Calves/Abs",
+          "focus": "Triceps/Calves/Abs",
+          "sourceFile": "Week 5 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps V-Handle Cable Extensions: 1 warm up set 3 triple drop sets of 15, 15, 15 reps Close Grip Bench Press: 2 warm up sets 3 triple drop sets of 12, 12, 12 reps Overhead Rope Extensions: 2 warm up sets 3 triple drop sets of 10, 10, 10 reps Standing Calf Raises: 7 sets of 20 reps Weighted"
+            },
+            {
+              "name": "Sit-Ups",
+              "type": "strength",
+              "prescription": "1 warm up set 3 sets of 10-12 reps Hanging Leg Raises: 2 sets of 15-17 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 2,
+          "programDayNumber": 32,
+          "name": "Day 2 - Shoulders",
+          "focus": "Shoulders",
+          "sourceFile": "Week 5 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "20 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Smith Machine Shoulder Press: 2 warm up sets 3 sets of 10 reps Smith Machine Shoulder Press Behind The Neck: 1 set of 8 reps 1 drop set of 8, 10 reps Machine Side Lateral Raises: 4 drop sets of 10, 10 reps Smith Machine Shrugs: 1 warm up set 3 sets of 18-20 reps Machine Rear Raises: 7 sets of 15 reps and partial reps until failure"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 3,
+          "programDayNumber": 33,
+          "name": "Day 3 - Chest/Triceps",
+          "focus": "Chest/Triceps",
+          "sourceFile": "Week 5 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Flat Dumbbell Press: 2 warm up sets 3 sets of 6-8 reps Incline Dumbbell Press: 2 warm up sets 2 sets of 6-8 reps 1 triple drop set of 10, 10, 10 reps Peck Deck Flyes: 2 warm up sets 3 drop sets of 8, 8 reps Tricep Pushdown Rope: 2 warm up sets 3 drop sets of 10-12 reps Overhead Tricep Extensions: 2 warm up sets 3 drop sets of 10-12 reps Smith Machine Close Grip Bench Press: 2 warm up sets 2 sets of 12 reps 1 set of 12 reps and partial reps until failure"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 4,
+          "programDayNumber": 34,
+          "name": "Day 4 - Legs",
+          "focus": "Legs",
+          "sourceFile": "Week 5 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Single Leg Hamstring Curls: 2 warm-up sets of 8-10 reps 4 drop sets of 10-12 reps Stiff-Legged Deadlift: 2 warm-up sets of 8-10 reps 2 sets of 16-18 reps Leg Press: 2 warm-up sets of 8-10 reps 2 sets of 20 reps to failure Leg Extensions: 2 warm-up sets of 8-10 reps 3 triple drop sets of 16-20 reps Superset: Seated Hamstring Curls: 1 warm-up set of 8-10 reps 3 drop sets of 16, 16 reps Standing Calf Press: 1 warm-up set of 8-10 reps 3 drop sets of 20 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . . The Week 5 Day 35 Workout __________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used."
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Giant Set: Chins: 3 sets of 16-20 reps Behind The Neck Pulldowns: 3 sets of 6-10 reps Cable Rows: 3 drop sets of 8-10 reps Superset: Bent Over Row: 3 sets of 12 reps Hyperextensions: 3 drop sets of 12, 12 reps Superset: Alternating Dumbbell Curls: 1 set of 20 reps 2 sets of 8 reps Crossover Curls: 3 drop sets of 8, 8 reps Lying Bicep Curls: 3 drop sets of 20, 20 reps Weighted Sit-Ups: 3 sets of 10-15 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNumber": 6,
+      "title": "Week 6",
+      "days": [
+        {
+          "dayNumber": 1,
+          "programDayNumber": 38,
+          "name": "Day 1 - Shoulders/Calves",
+          "focus": "Shoulders/Calves",
+          "sourceFile": "Week 6 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Superset: Side Raises: 2 warm-up sets of 8-10 reps 3 triple drop sets of 10-12 reps Front Plate Raises: 1 warm-up set of 8-10 reps 3 sets of 10-12 reps Superset: Military Press: 2 warm-up sets of 8-10 reps 3 triple drop sets of 8-10 reps Rear Raises: 2 warm-up sets of 8-10 reps 3 sets of 10-12 reps Dumbbell Shrugs: 3 sets of 18-20 reps Superset: Seated Calf Raises: 2 triple drop sets of 10-12 reps Standing Calf Raises: 2 set to failure"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 2,
+          "programDayNumber": 39,
+          "name": "Day 2 - Chest/Triceps/Abs",
+          "focus": "Chest/Triceps/Abs",
+          "sourceFile": "Week 6 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Dumbbell Press: 5 warm-up sets of 8-10 reps 2 sets of 6-8 reps Decline Bench Press: 2 warm-up sets of 8-10 reps 1 triple drop set of 6-8 reps Incline Dumbbell Flyes: 1 warm-up sets of 8-10 reps , 1 double dropset of 10 reps 1 drop set of 8-10 reps Cable Crossovers: 2 sets of 10-12 reps 1 drop set of 10-12 reps Superset: Lying Tricep Extensions: 3 sets of 10-12 reps Lying Pullovers: 3 sets of 8-10 reps Overhead Dumbbell Extension: 2 warm-up sets of 8-10 reps 3 sets of 10-12 reps Bench Dips: 3 drop sets of 10-12 reps partial reps until failure Incline Reverse Crunch: 3 sets of 12-15 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . . The Week 6 Day 40 Workout __________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used."
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Superset: Leg Press: 3 sets of 22-25 reps Squats: 3 sets of 8-10 reps Superset: Seated Leg Curl: 3 sets of 18-20 reps Standing Leg Curl: 3 sets of 8-10 slow reps followed by 10 quick reps Hack Squats: 3 sets of 20-30 reps Superset: Unilateral Leg Extension: 1 set of 20 reps 1 set of 10 reps 1 set of 5 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . . The Week 6 Day 42 Workout __________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used."
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Reverse Grip Hammer Pulldowns: 2 warm-up sets of 8-10 reps 3 sets of 8-10 reps Single Arm Rows: 2 warm-up sets of 8-10 reps 3 sets of 12-15 reps Bent Over Rows: 2 warm-up sets of 8-10 reps 3 sets of 10-12 reps Reverse Grip Pulldowns: 3 sets of 12-15 reps Spider Curls: 1 warm-up set of 8-10 reps 3 sets of 8-10 reps Concentration Curls: 1 warm-up set of 8-10 reps 3 sets of 12-15 reps Machine Preacher Curls: 7 sets of 10-15 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNumber": 7,
+      "title": "Week 7",
+      "days": [
+        {
+          "dayNumber": 1,
+          "programDayNumber": 43,
+          "name": "Day 1 - Shoulders/Calves",
+          "focus": "Shoulders/Calves",
+          "sourceFile": "Week 7 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Dumbbell Shoulder Press: 2 warm-up sets of 8-10 reps 2 sets of 6-10 reps Side Raises: 3 sets of 10-12 reps Front Raises: 3 sets of 10-12 reps Cable Side Raises: 3 sets of 8-10 reps and 3 negative reps Wide Grip Upright Row: 7 sets of 15 reps Superset: Calf Raises on Leg Press Machine: 3 sets of 20 reps Modified Crunches: 3 sets of 20-30 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 2,
+          "programDayNumber": 45,
+          "name": "Day 2 - Chest/Triceps",
+          "focus": "Chest/Triceps",
+          "sourceFile": "Week 7 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Incline Flyes: 2 warm-up sets of 8-10 reps 2 sets of 10-12 reps Flat Machine Press: 2 sets of 12-15 reps Modified Push-Up: 2 sets of 10 reps Machine Dips: 3 sets of 10-12 reps Overhead Rope Extension: 3 sets of 12-15 reps Cable Pushdowns: 2 sets of 10-12 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 3,
+          "programDayNumber": 46,
+          "name": "Day 3 - Leg",
+          "focus": "Leg",
+          "sourceFile": "Week 7 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Leg Extensions: 2 warm-up sets of 8-10 reps 3 sets of 20 \"One And A Half\" reps Partial Leg Extensions: 2 sets of 50 reps (dropping weight every 10 reps) Leg Press: 2 sets of 60 reps (adjust feet position every 20 reps) Walking Lunges: 1 warm up set 8-10 reps 2 sets to failure Machine Stiff-Leg Deadlift: 3 sets of 12-15 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 4,
+          "programDayNumber": 49,
+          "name": "Day 4 - Back/Biceps",
+          "focus": "Back/Biceps",
+          "sourceFile": "Week 7 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Giant Set: Chins: 1 warm up set of 8-10 reps 3 sets of 15 reps Cable Rows: 1 warm up set of 8-10 reps 3 sets of 15 reps Behind The Neck Pulldowns: 1 warm up set of 8-10 reps 3 sets of 15 reps Bent-Over Smith Machine Row: 1 warm-up set of 8-10 reps 3 sets of 8-10 reps Hammer Curls: 2 warm-up sets of 8-10 reps 3 sets of 20 reps Barbell Curls: 2 warm-up sets of 8-10 reps 3 sets of 10-12 reps Hammer Cable Curls: 3 sets of 20 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNumber": 8,
+      "title": "Week 8",
+      "days": [
+        {
+          "dayNumber": 1,
+          "programDayNumber": 51,
+          "name": "Day 1 - Shoulders/Calves/Abs",
+          "focus": "Shoulders/Calves/Abs",
+          "sourceFile": "Week 8 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Side Raises: Pyramid Set: 1 set of 50 reps 1 set of 40 reps 1 set of 30 reps 1 set of 20 reps 1 set of 10 reps Drop Set: 5 sets of 10 reps Machine Hammer Press: 2 warm up sets of 8-10 reps 1 triple drop sets of 6-10 reps Barbell Shrug: 1 warm up set of 8-10 reps 2 sets of 10-12 reps Superset: Seated Calf Raise: 3 sets of 10-12 reps Machine Calf Press: 3 sets of 10-12 reps Sit Ups With Legs On a Bench: 3 sets of 30 reps (10 full reps, 10 bottom half-reps, 10 top half-reps)"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 2,
+          "programDayNumber": 52,
+          "name": "Day 2 - Legs",
+          "focus": "Legs",
+          "sourceFile": "Week 8 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Superset: Seated Hamstring Curl: 1 set of 20 reps Leg Extensions: 1 set of 40 reps Squats: 1 warm up set of 8-10 reps Pyramid Set: 1 set of 40 reps 1 set of 30 reps 1 set of 10 reps Superset: Leg Extensions: 2 sets of 20 reps Seated Hamstring Curl: 2 sets of 20 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 3,
+          "programDayNumber": 53,
+          "name": "Day 3 - Back/Chest",
+          "focus": "Back/Chest",
+          "sourceFile": "Week 8 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Superset: Pull-Ups: 3 sets of 16-20 reps Dumbbell Press: 2 sets of 8-10 reps Superset: Cable Rows: 3 sets of 12-16 reps Incline Dumbbell Press: 2 sets 8-12 reps Superset: Reverse Grip Cable Pulldowns: 2 sets of 8-10 reps Incline Flyes: 2 sets of 8-10 reps Partial Deadlift: 1 warm up set of 8-10 reps 1 set of 30 reps 1 drop set of 30 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 4,
+          "programDayNumber": 54,
+          "name": "Day 4 - Biceps/Triceps",
+          "focus": "Biceps/Triceps",
+          "sourceFile": "Week 8 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps DTP Superset: Alternating Dumbbell Curls: 1 set of 50 reps 1 set of 40 reps 1 set of 30 reps 1 set of 20 reps 1 set of 10 reps 1 set of 10 reps 1 set of 20 reps 1 set of 30 reps 1 set of 40 reps 1 set of 50 reps 3-Exercise Tricep Extensions: Alternate between Skullcrushers, Rockers, and Head Smackers. 1 set of 50 reps 1 set of 40 reps 1 set of 30 reps 1 set of 20 reps 1 set of 10 reps 1 set of 10 reps 1 set of 20 reps 1 set of 30 reps 1 set of 40 reps 1 set of 50 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNumber": 9,
+      "title": "Week 9",
+      "days": [
+        {
+          "dayNumber": 1,
+          "programDayNumber": 58,
+          "name": "Day 1 - Shoulders/Calves/Abs",
+          "focus": "Shoulders/Calves/Abs",
+          "sourceFile": "Week 9 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Standing Calf Raises: 10 sets of 15 reps Incline Sit Ups: 2 warm-up sets of 8-10 reps 3 sets of 15 reps DTP Set: Smith Overhead Press: 1 set of 50 reps 1 set of 40 reps 1 set of 30 reps 1 set of 20 reps 1 set of 10 reps Smith Overhead Press - Behind The Neck: 1 set of 10 reps 1 set of 20 reps 1 set of 30 reps 1 set of 40 reps 1 set of 50 reps Giant Set: Upright Row - Wide Grip: 1 set of 10 reps 1 set of 7 reps 1 set of 5 reps 1 triple drop set of 6-8 reps Upright Row - Medium Grip: 1 set of 10 reps 1 set of 7 reps 1 set of 5 reps 1 triple drop set of 6-8 reps Upright Row - Narrow Grip: 1 set of 10 reps 1 set of 7 reps 1 set of 5 reps 1 triple drop set of 6-8 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 2,
+          "programDayNumber": 59,
+          "name": "Day 2 - Legs",
+          "focus": "Legs",
+          "sourceFile": "Week 9 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Leg Press: 2 warm up sets of 8-10 reps 1 triple drop set of 20, 10, 10 reps Superset: Hack Squats: 2 sets of 30 reps Squats: 2 sets of 10 reps Superset: Standing Hamstring Curls: 2 sets of 16-20 reps 1 triple drop set of 16-20 reps Stiff Legged Dumbbell Deadlift: 3 sets of 10-12 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 3,
+          "programDayNumber": 60,
+          "name": "Day 3 - Chest/Back",
+          "focus": "Chest/Back",
+          "sourceFile": "Week 9 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Superset:"
+            },
+            {
+              "name": "Machine Pullovers",
+              "type": "strength",
+              "prescription": "3 sets of 10-12 reps"
+            },
+            {
+              "name": "Flat Dumbell Press",
+              "type": "strength",
+              "prescription": "3 sets of 6-8 reps Superset:"
+            },
+            {
+              "name": "Incline Flyes",
+              "type": "strength",
+              "prescription": "3 sets of 10-12 reps"
+            },
+            {
+              "name": "Bent Over Row",
+              "type": "strength",
+              "prescription": "3 sets of 10-12 reps Superset:"
+            },
+            {
+              "name": "Cable Crossovers",
+              "type": "strength",
+              "prescription": "3 sets of 10-12 reps"
+            },
+            {
+              "name": "Single Arm Dumbell Row",
+              "type": "strength",
+              "prescription": "3 sets of 10-12 reps Superset: Underhand Cable Pulldown: 3 sets of 10-12 reps"
+            },
+            {
+              "name": "Flat Dumbbell Press",
+              "type": "strength",
+              "prescription": "3 sets of 6-8 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 4,
+          "programDayNumber": 62,
+          "name": "Day 4 - Biceps/Triceps",
+          "focus": "Biceps/Triceps",
+          "sourceFile": "Week 9 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Superset: Machine Preacher Curls: 2 sets of 10-12 reps 1 triple drop set of 10-12 reps Dips: 2 sets of 10-12 reps 1 triple drop set of 10-12 reps Superset: Tricep Rope Extensions: 1 set of 12 reps 1 drop set of 12 reps 1 set of 12 reps Barbell Curls: 1 set of 12 reps 1 drop set of 12 reps 1 set of 12 reps Superset: Close Grip Bench Press: 3 sets of 10-12 reps Hammer Curls: 3 sets of 10-12 reps Superset: Standing Cable Curls: 3 sets of 12 reps Tricep Cable Extensions: 3 sets of 12 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 5,
+          "programDayNumber": 63,
+          "name": "Day 5 - Shoulders/Calves/Abs",
+          "focus": "Shoulders/Calves/Abs",
+          "sourceFile": "Week 9 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Dumbbell Shoulder Press: 2 warm up sets of 8-10 reps 3 sets of 10-12 reps Superset: Side Lateral Raise: 2 warm up sets of 8-10 reps 4 sets of 10-12 reps Rear Raises: 2 warm up sets of 8-10 reps 4 sets of 10-12 reps Dumbbell Shrugs: 1 warm up set of 8-10 reps 4 sets of 20 reps Superset: Seated Calf Press: 1 warm up set of 8-10 reps 3 sets of 20 reps Weighted Sit Ups: 3 sets of 15-17 reps Superset: Calf Machine Press: 3 sets of 10-12 reps Incline Leg Raise: 1 warm up set of 8-10 reps 3 sets of 12-15 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNumber": 10,
+      "title": "Week 10",
+      "days": [
+        {
+          "dayNumber": 1,
+          "programDayNumber": 64,
+          "name": "Day 1 - Legs",
+          "focus": "Legs",
+          "sourceFile": "Week 10 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps DTP Superset: Leg Extensions: 1 set of 50 reps 1 set of 40 reps 1 set of 30 reps 1 set of 20 reps 1 set of 10 reps 1 set of 10 reps 1 set of 20 reps 1 set of 30 reps 1 set of 40 reps 1 set of 50 reps Seated Leg Curls: 1 set of 50 reps 1 set of 40 reps 1 set of 30 reps 1 set of 20 reps 1 set of 10 reps 1 set of 10 reps 1 set of 20 reps 1 set of 30 reps 1 set of 40 reps 1 set of 50 reps Standing Lunges: 1 warm up set of 8-10 reps 3 sets of 10 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 2,
+          "programDayNumber": 66,
+          "name": "Day 2 - Chest And Back",
+          "focus": "Chest And Back",
+          "sourceFile": "Week 10 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps DTP Superset: Dumbbell Chest Press: 1 set of 50 reps 1 set of 40 reps 1 set of 30 reps 1 set of 20 reps 1 set of 10 reps 1 set of 10 reps 1 set of 20 reps 1 set of 30 reps 1 set of 40 reps 1 set of 50 reps Bent-Over Rows: 1 set of 50 reps 1 set of 40 reps 1 set of 30 reps 1 set of 20 reps 1 set of 10 reps 1 set of 10 reps 1 set of 20 reps 1 set of 30 reps 1 set of 40 reps 1 set of 50 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 3,
+          "programDayNumber": 68,
+          "name": "Day 3 - Legs/Shoulders",
+          "focus": "Legs/Shoulders",
+          "sourceFile": "Week 10 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Box Squats: 1 warm up set of 8-10 reps 3 sets of 6-8 reps Rack Squats: 3 sets of 6 reps Single Arm Shoulder Press: 1 warm up set of 8-10reps 3 sets of 10 reps Giant Set: Side Dumbbell Raises: 2 sets of 15-20 reps Leaning Dumbbell Raises: 2 sets of 15-20 reps Side Cable Raises: 2 sets of 15-20 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . . The Week 10 Abs/Calves Workout __________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used."
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Circuit: Standing Calf Press: 4 sets of 20 reps 45 Degree Calf Press Machine: 4 sets of 20 reps Hanging Leg Raises: 4 sets of 20 reps Incline Crunches: 4 sets of 20 reps Standing Twists: 1 set of 1 minute"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 4,
+          "programDayNumber": 70,
+          "name": "Day 4 - Back/Biceps/Triceps",
+          "focus": "Back/Biceps/Triceps",
+          "sourceFile": "Week 10 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Reverse Grip Bent Over Rows: 3 sets of 6-10 reps Superset: Rack Deadlifts: 3 sets of 4-6 reps Straight Arm Pullovers: 3 sets of 10-12 reps Single Arm Rows: 3 sets of 10-12 reps Giant Set: Incline Biceps Curls: 3 sets of 8-12 reps Rope Curls: 3 sets of 10-12 reps Reverse Grip Pullups: 3 sets of 8-12 reps Giant Set: Tricep Cable Extensions: 3 sets of 20 reps Overhead Tricep Extensions: 3 sets of 12 reps Dips: 3 sets of 10 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNumber": 11,
+      "title": "Week 11",
+      "days": [
+        {
+          "dayNumber": 1,
+          "programDayNumber": 73,
+          "name": "Day 1 - Legs",
+          "focus": "Legs",
+          "sourceFile": "Week 11 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps Leg Press: 1 set of 50 reps 1 set of 40 reps 1 set of 30 reps 1 set of 20 reps 1 set of 10 reps 1 set of 10 reps 1 set of 20 reps 1 set of 30 reps 1 set of 40 reps 1 set of 50 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 2,
+          "programDayNumber": 74,
+          "name": "Day 2 - Chest/Back",
+          "focus": "Chest/Back",
+          "sourceFile": "Week 11 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps DTP Superset: Reverse Grip Cable Pulldowns: 1 set of 50 reps 1 set of 40 reps 1 set of 30 reps 1 set of 20 reps 1 set of 10 reps 1 set of 10 reps 1 set of 20 reps 1 set of 30 reps 1 set of 40 reps 1 set of 50 reps Incline Dumbbell Press: 1 set of 50 reps 1 set of 40 reps 1 set of 30 reps 1 set of 20 reps 1 set of 10 reps 1 set of 10 reps 1 set of 20 reps 1 set of 30 reps 1 set of 40 reps 1 set of 50 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 3,
+          "programDayNumber": 75,
+          "name": "Day 3 - Shoulders/Calves/Abs",
+          "focus": "Shoulders/Calves/Abs",
+          "sourceFile": "Week 11 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps DTP Set: Seated Military Press Behind the Head: 1 set of 50 reps 1 set of 40 reps 1 set of 30 reps 1 set of 20 reps 1 set of 10 reps Seated Military Press: 1 set of 10 reps 1 set of 20 reps 1 set of 30 reps 1 set of 40 reps 1 set of 50 reps Giant Set: Upright Barbell Row: 3 sets of 15-20 reps Seated Calf Press: 3 sets of 15-20 reps Weighted Sit-Ups: 3 sets of 15-20 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNumber": 12,
+      "title": "Week 12",
+      "days": [
+        {
+          "dayNumber": 1,
+          "programDayNumber": 78,
+          "name": "Day 1 - Legs",
+          "focus": "Legs",
+          "sourceFile": "Week 12 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps 1/2 DTP set: Leg Press: 2 warm up sets of 8-10 reps 1 set of 50 reps 1 set of 40 reps 1 set of 30 reps 1 set of 20 reps 1 set of 10 reps Superset: Seated Hamstring Curls: 5 sets of 15-20 reps Seated Leg Extensions: 5 sets of 15-20 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 2,
+          "programDayNumber": 79,
+          "name": "Day 2 - Chest/Back",
+          "focus": "Chest/Back",
+          "sourceFile": "Week 12 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps DTP Superset: Dumbbell Press: 1 set of 50 reps 1 set of 40 reps 1 set of 30 reps 1 set of 20 reps 1 set of 10 reps 1 set of 10 reps 1 set of 20 reps 1 set of 30 reps 1 set of 40 reps 1 set of 50 reps Bent-Over Dumbbell Row: 1 set of 50 reps 1 set of 40 reps 1 set of 30 reps 1 set of 20 reps 1 set of 10 reps 1 set of 10 reps 1 set of 20 reps 1 set of 30 reps 1 set of 40 reps 1 set of 50 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 3,
+          "programDayNumber": 80,
+          "name": "Day 3 - Shoulders/Calves/Abs",
+          "focus": "Shoulders/Calves/Abs",
+          "sourceFile": "Week 12 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps 1/2 DTP Set: Dumbbell Shoulder Press: 1 set of 50 reps 1 set of 40 reps 1 set of 30 reps 1 set of 20 reps 1 set of 10 reps 1/2 DTP Superset: Dumbbell Shoulder Press: 1 set of 10 reps 1 set of 20 reps 1 set of 30 reps 1 set of 40 reps 1 set of 50 reps Dumbbell Shrugs: 5 sets of 20-25 reps Superset: Incline Lying Leg Raises: 3 sets of 15-20 reps Seated Calf Raises: 3 sets of 15-20 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 4,
+          "programDayNumber": 83,
+          "name": "Day 4 - Biceps/Triceps",
+          "focus": "Biceps/Triceps",
+          "sourceFile": "Week 12 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps DTP Superset: Triceps Pushdown With V-Bar: 1 set of 50 reps 1 set of 40 reps 1 set of 30 reps 1 set of 20 reps 1 set of 10 reps 1 set of 10 reps 1 set of 20 reps 1 set of 30 reps 1 set of 40 reps 1 set of 50 reps Standing Cable Curls: 1 set of 50 reps 1 set of 40 reps 1 set of 30 reps 1 set of 20 reps 1 set of 10 reps 1 set of 10 reps 1 set of 20 reps 1 set of 30 reps 1 set of 40 reps 1 set of 50 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        },
+        {
+          "dayNumber": 5,
+          "programDayNumber": 84,
+          "name": "Day 5 - Legs",
+          "focus": "Legs",
+          "sourceFile": "Week 12 Workouts.pdf",
+          "exercises": [
+            {
+              "name": "__________________________ __________________________ __________________________ am/pm . __________________________ DURATION . __________________________ __________________________ __________________________ . __________________________ . you did 100 pounds for 10 reps, you would write \"100 X 10\". The gray boxes below are not used.",
+              "type": "note",
+              "prescription": ""
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps DTP Superset: Seated Hamstring Curls: 1 set of 50 reps 1 set of 40 reps 1 set of 30 reps 1 set of 20 reps 1 set of 10 reps 1 set of 10 reps 1 set of 20 reps 1 set of 30 reps 1 set of 40 reps 1 set of 50 reps Leg Extensions: 1 set of 50 reps 1 set of 40 reps 1 set of 30 reps 1 set of 20 reps 1 set of 10 reps 1 set of 10 reps 1 set of 20 reps 1 set of 30 reps 1 set of 40 reps 1 set of 50 reps"
+            },
+            {
+              "name": "Cardio",
+              "type": "cardio",
+              "prescription": "25 minutes"
+            },
+            {
+              "name": "Twists",
+              "type": "strength",
+              "prescription": "1 set of 150 reps . . . . . . ."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
