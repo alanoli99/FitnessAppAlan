@@ -1,185 +1,143 @@
-# Alan Fitness App
+# FitnessAppAlan
 
-Personal iPhone-first fitness tracker built with Expo React Native.  
-The app is offline-first and stores all workout/session data in on-device SQLite.
+A **production-quality**, offline-first mobile fitness tracker built with **React Native** and **Expo**. Designed for real-world daily use — tracks a structured 12-week training program, logs sets in real time, and persists all data locally with SQLite.
 
-## Overview
+> Built as a personal tool, engineered like a product.
 
-This app tracks a 12-week workout plan, lets you log sets during sessions, and stores a full session history.
+---
 
-Primary goals:
+## Highlights
 
-- Fast workout logging with minimal UI friction
-- Deterministic workout ordering (no accidental duplicate cards)
-- Local-first storage, no backend required
-- Seeded plan data that can be re-imported/versioned safely
+- **Offline-first architecture** — zero backend dependency; all data lives on-device via `expo-sqlite`
+- **Versioned schema migrations** — forward-compatible database layer with automatic legacy detection and safe resets
+- **Deterministic seed system** — workout plan data is ingested from JSON with content-addressable IDs and version-gated re-seeding
+- **File-based routing** — Expo Router with dynamic segments (`[dayId]`, `[sessionId]`) for deep-linkable screens
+- **Type-safe throughout** — end-to-end TypeScript with Zod validation and `react-hook-form` integration
+- **Performant lists** — `@shopify/flash-list` for buttery-smooth scrolling on large exercise/session datasets
+
+---
 
 ## Tech Stack
 
-- Expo SDK 54
-- React Native + TypeScript
-- Expo Router
-- expo-sqlite
-- @shopify/flash-list
-- date-fns
+| Layer | Technology |
+|---|---|
+| **Framework** | React Native 0.81 · Expo SDK 54 |
+| **Language** | TypeScript 5.9 |
+| **Navigation** | Expo Router (file-based) |
+| **Database** | expo-sqlite (SQLite / WAL mode) |
+| **Forms** | react-hook-form + Zod |
+| **Lists** | @shopify/flash-list |
+| **Tooling** | Python 3 (PDF → JSON pipeline) |
 
-## Prerequisites
+---
 
-- Node.js `>= 20`
-- npm `>= 10`
-- Expo Go on iPhone (latest available in App Store)
+## Architecture
 
-Optional (for PDF re-import workflow):
+```
+┌──────────────────────────────────────────────────┐
+│                   UI Layer                       │
+│  app/index.tsx · app/workout/[dayId].tsx · ...   │
+├──────────────────────────────────────────────────┤
+│               Component Layer                    │
+│  SessionHeader · ExerciseRow · SetLoggerSheet    │
+├──────────────────────────────────────────────────┤
+│              Service Layer                       │
+│  seed.ts (plan ingestion) · progress.ts          │
+├──────────────────────────────────────────────────┤
+│              Database Layer                      │
+│  queries.ts → migrations.ts → expo-sqlite        │
+│  (WAL mode · indexed · FK-constrained)           │
+└──────────────────────────────────────────────────┘
+```
 
-- Python 3
-- `pypdf`
+### Key Design Decisions
 
-## Quick Start
+- **Plan vs. Log separation** — Program structure (`program_days`, `exercise_item`) is kept independent from session data (`session`, `set_entry`, `exercise_status`), enabling safe re-seeding without data loss.
+- **Content-addressable IDs** — Exercise items derive deterministic IDs from their content, preventing duplicates across seed versions.
+- **Migration-first schema** — `migrate()` runs on every cold start, creating or updating tables idempotently. Legacy schemas are detected via column introspection and reset automatically.
+- **Cyclic program mapping** — The home screen resolves today's workout by mapping the current date against `program_start_date`, cycling through program days indefinitely.
+
+---
+
+## Data Model
+
+```
+program_days ──┬── exercise_item
+               │
+session ───────┼── set_entry
+               └── exercise_status
+
+settings (key-value)
+meta (seed_version tracking)
+```
+
+Indexed for fast reads:
+`idx_set_entry_session` · `idx_set_entry_exercise_item` · `idx_exercise_item_day` · `idx_session_day_status`
+
+---
+
+## Project Structure
+
+```
+app/
+  _layout.tsx                 App bootstrap + tab navigation
+  index.tsx                   Home — today's workout card
+  workout/[dayId].tsx         Active workout session
+  session/[sessionId].tsx     Completed session detail
+  program.tsx                 Full program browser
+  history.tsx                 Session history list
+  settings.tsx                Program configuration
+
+components/Workout/
+  SessionHeader.tsx           Session status + timer
+  ExerciseRow.tsx             Exercise card with set progress
+  SetLoggerSheet.tsx          Bottom sheet for logging sets
+
+src/db/
+  migrations.ts               Schema creation + legacy reset
+  queries.ts                  SQL query layer
+  index.ts                    Public DB facade
+
+src/services/
+  seed.ts                     Versioned plan ingestion
+  progress.ts                 Progress computation
+
+src/types/program.ts          Shared type definitions
+src/data/program.json         Seed workout plan (generated)
+scripts/import_workout_plan.py  PDF → JSON converter
+```
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js ≥ 20
+- npm ≥ 10
+- Expo Go (iOS / Android)
+
+### Run
 
 ```bash
 npm install
 npx expo start -c
 ```
 
-From your iPhone:
+Scan the QR code with Expo Go to launch on your device.
 
-1. Open Expo Go
-2. Scan the QR code from terminal/browser
+---
 
-## Project Layout
+## App Flow
 
-```text
-app/
-  index.tsx                  Home
-  workout/[dayId].tsx        Workout session screen
-  day/[dayId].tsx            Legacy redirect to /workout/[dayId]
-  program.tsx                Program browser
-  history.tsx                Session list
-  session/[sessionId].tsx    Session detail
-  settings.tsx               Program start date
-  _layout.tsx                App bootstrap + routes
+1. **Launch** → `initializeDatabase()` runs migrations and seeds the program plan
+2. **Home** → Resolves today's workout from `program_start_date` with cyclic day mapping
+3. **Workout** → Loads exercises, tracks active session, shows aggregate set progress
+4. **Log** → `SetLoggerSheet` captures weight / reps / RPE / RIR per set
+5. **Finish** → Session marked complete with timestamp; visible in history
 
-components/Workout/
-  SessionHeader.tsx
-  ExerciseRow.tsx
-  SetLoggerSheet.tsx
+---
 
-src/db/
-  migrations.ts              Schema migration/reset logic
-  queries.ts                 SQL query layer
-  index.ts                   App-facing DB facade
-  database.ts                Re-export compatibility shim
+## License
 
-src/services/
-  seed.ts                    Seed ingestion + seed versioning
-  progress.ts                Progress helper utilities
-
-src/types/
-  program.ts                 Shared app types
-
-src/data/
-  program.json               Seed workout plan
-
-scripts/
-  import_workout_plan.py     PDF -> JSON converter
-```
-
-## Data Model
-
-The plan and logs are intentionally separated.
-
-Plan tables:
-
-- `program_days`
-- `exercise_item`
-- `meta` (`seed_version`)
-
-Session/log tables:
-
-- `session`
-- `set_entry`
-- `exercise_status`
-
-Support:
-
-- `settings` (e.g. `program_start_date`)
-
-Important indexes:
-
-- `idx_set_entry_session`
-- `idx_set_entry_exercise_item`
-- `idx_exercise_item_day`
-- `idx_session_day_status`
-
-## Startup Flow
-
-On app launch:
-
-1. `initializeDatabase()` runs
-2. `migrate()` creates/updates schema
-3. Legacy incompatible schema is detected and reset when required
-4. `seedProgramIfNeeded()` applies plan data based on `meta.seed_version`
-
-## Workout Flow
-
-1. Home resolves today's program day from `program_start_date`
-2. Workout screen loads:
-   - program day details
-   - active session (or start on demand)
-   - aggregate set progress by `exercise_item_id`
-3. Tapping an exercise opens `SetLoggerSheet`
-4. Logging a set inserts into `set_entry` with auto `set_index`
-5. Finish session marks `session.status = completed` and sets `ended_at`
-
-## Seed and Import Workflow
-
-To regenerate `src/data/program.json` from the original PDF folder:
-
-```bash
-python scripts/import_workout_plan.py --input-dir "C:\Users\alano\Downloads\Alan Oliver Workout Plan" --output "src/data/program.json"
-```
-
-Notes:
-
-- PDF extraction quality can vary; verify output before relying on it
-- `seed.ts` derives deterministic `exercise_item.id` values
-- Seed changes should bump `SEED_VERSION` so ingestion reruns
-
-## Dev Commands
-
-```bash
-npm run start
-npm run ios
-npm run android
-npm run web
-npm run typecheck
-```
-
-## Troubleshooting
-
-### `Project is incompatible with this version of Expo Go`
-
-- Confirm app uses Expo SDK 54 (`package.json`)
-- Update Expo Go to latest available
-- Restart with cache clear: `npx expo start -c`
-
-### Initialization error about missing DB columns
-
-- Caused by old local schema from earlier versions
-- `migrations.ts` now auto-resets incompatible legacy tables
-- Fully restart Expo Go after launching with `-c`
-
-### Metro resolution/module errors
-
-- Run `npm install`
-- Then `npx expo install --check`
-- Restart with `npx expo start -c`
-
-## Git Notes
-
-Local-only files are ignored:
-
-- root `.claude/`
-- IDE folders (`.vscode/`, `.idea/`)
-- Expo cache and node modules
-- optional local DB artifacts (`*.db`, `*.sqlite*`)
+This project is for personal use and portfolio demonstration.
